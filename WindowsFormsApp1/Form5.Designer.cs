@@ -44,6 +44,12 @@ namespace WindowsFormsApp1
             // 
             // label1
             // 
+            this.button2.Location = new System.Drawing.Point(324, 103);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(139, 130);
+            this.button2.TabIndex = 2;
+            this.button2.Text = "button2";
+            this.button2.UseVisualStyleBackColor = true;
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(403, 112);
             this.label1.Name = "label1";
